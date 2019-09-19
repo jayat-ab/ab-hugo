@@ -15,6 +15,6 @@ jobs:
       - name: Deploy the hugo site
         uses: jayat-ab/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: latest
+          HUGO_VERSION: 0.58.2
           TARGET_REPO: ApplyBoard/ab-hugo
           TOKEN: ${{ secrets.TOKEN }}
