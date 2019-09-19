@@ -16,5 +16,5 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.58.2
-          TARGET_REPO: ApplyBoard/ab-hugo.git
+          TARGET_REPO: ApplyBoard/ab-hugo
           TOKEN: ${{ secrets.TOKEN }}
