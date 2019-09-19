@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Welcome to ApplyBoard Cloud (ABC) Devops"
 publishDir = "docs"
-theme = "ananke"
+theme = "simpleit"
 themesDir = "themes/"
 
 MetaDataFormat = "yaml"
