@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: Deploy
-    runs-on: macOS-latest
+    runs-on: ubuntu-18.04
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
