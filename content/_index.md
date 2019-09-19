@@ -1,6 +1,6 @@
 ---
 title: "Welcome to ApplyBoard Cloud (ABC) Devops"
 featured_image: '/images/notebook.jpg'
-description: "This is a resource for intarnal documentation"
+description: "This is a resource for internal documentation"
 ---
-Welcome to my ABC Devops with some of our work in progress.
+Welcome to my ABC Devops with some of my work in progress.
