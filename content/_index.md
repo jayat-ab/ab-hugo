@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Welcome to ApplyBoard Cloud (ABC) Devops"
+featured_image: '/images/notebook.jpg'
+description: "This is a resource for intarnal documentation"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my ABC Devops with some of our work in progress.
