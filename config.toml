@@ -20,7 +20,6 @@ copyright = "&copy;ApplyBoard 2019"
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [params]
-  description = "Awesome DevOps"
   author = "Hugo Now"
   keywords = ["hugo-now", "hugo"]
   avatar = "/images/AB.jpg"
