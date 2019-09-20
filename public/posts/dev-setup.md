@@ -1,5 +1,5 @@
 ---
-title: "DEveloper Environment Setup"
+title: "Developer Environment Setup"
 date: 2019-09-20T14:12:19-04:00
 draft: false
 categories:
