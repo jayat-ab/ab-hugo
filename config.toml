@@ -1,4 +1,4 @@
-baseURL = "//www.applyboard.com/"
+baseURL = "//applyboard.github.io/ab-hugo/"
 languageCode = "en-us"
 title = "Welcome to ApplyBoard Cloud (ABC) DevOps"
 publishDir = "public"
@@ -6,6 +6,8 @@ theme = "hugo-now"
 #themesDir = "themes/"
 # google analytics
 GoogleAnalytics = "UA-XXXXXX"
+relativeURLs = true
+canonifyURLs = true
 
 [taxonomies]
   category = "categories"

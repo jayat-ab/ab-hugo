@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//www.applyboard.com/about/</loc>
+    <loc>//applyboard.github.io/ab-hugo/about/</loc>
   </url>
   
   <url>
-    <loc>//www.applyboard.com/categories/</loc>
+    <loc>//applyboard.github.io/ab-hugo/categories/</loc>
   </url>
   
   <url>
-    <loc>//www.applyboard.com/tags/</loc>
+    <loc>//applyboard.github.io/ab-hugo/tags/</loc>
   </url>
   
   <url>
-    <loc>//www.applyboard.com/</loc>
+    <loc>//applyboard.github.io/ab-hugo/</loc>
   </url>
   
 </urlset>
