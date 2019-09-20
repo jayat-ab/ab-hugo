@@ -2,16 +2,22 @@ baseURL = "//applyboard.github.io/ab-hugo/"
 languageCode = "en-us"
 title = "Welcome to ApplyBoard Cloud (ABC) DevOps"
 publishDir = "public"
-theme = "hugo-now"
+theme = "hugo-primer"
 #themesDir = "themes/"
 # google analytics
-GoogleAnalytics = "UA-XXXXXX"
+GoogleAnalytics = "U-12345678-0"
 relativeURLs = true
 canonifyURLs = true
+hasCJKLanguage = true
+summaryLength = 70
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = "&copy;ApplyBoard 2019"
+
+[frontmatter]
+# update sitemap.xml's lastmod datetime by file change time, instead of git.
+lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [params]
   description = "Awesome DevOps"
@@ -25,3 +31,6 @@ canonifyURLs = true
   # pagination
   paginate = 10
   paginatePath = "page"
+  shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+  # You may disable copyright sentence by setting this to false.
+  showFooterCredits = true
