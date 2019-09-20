@@ -5,18 +5,9 @@ on:
       - master
 
 jobs:
-  build:
+  deploy:
     name: Deploy
     runs-on: ubuntu-18.04
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v1
-        with:
-          submodules: true
-
-      - name: Deploy the hugo site
-        uses: jayat-ab/hugo-deploy-gh-pages@master
-        env:
-          HUGO_VERSION: 0.58.2
-          TARGET_REPO: ApplyBoard/ab-hugo
-          TOKEN: ${{ secrets.TOKEN }}
+      - name: Execute deploy script
+        run: deploy.sh
