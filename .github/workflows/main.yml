@@ -17,6 +17,5 @@ jobs:
       - name: Deploy hugo site
         uses: maxheld83/ghpages@master
         env:
-          HUGO_VERSION: 0.58.2
-          TARGET_REPO: ApplyBoard/ab-hugo
-          TOKEN: ${{ secrets.TOKEN }}
+          BUILD_DIR: "public/"
+        secrets: ["GH_PAT"]  
