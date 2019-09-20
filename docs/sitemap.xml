@@ -3,27 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>//www.applyboard.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>//www.applyboard.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>//www.applyboard.com/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>//www.applyboard.com/</loc>
   </url>
   
 </urlset>

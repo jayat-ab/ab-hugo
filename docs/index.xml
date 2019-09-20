@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to ApplyBoard Cloud (ABC) Devops</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Welcome to ApplyBoard Cloud (ABC) Devops</description>
+    <title>Welcome to ApplyBoard Cloud (ABC) Devops on Welcome to ApplyBoard Cloud (ABC) DevOps</title>
+    <link>//www.applyboard.com/</link>
+    <description>Recent content in Welcome to ApplyBoard Cloud (ABC) Devops on Welcome to ApplyBoard Cloud (ABC) DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.applyboard.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
