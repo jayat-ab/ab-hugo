@@ -1,25 +1,32 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.applyboard.com"
 languageCode = "en-us"
-title = "Welcome to ApplyBoard Cloud (ABC) Devops"
+title = "Welcome to ApplyBoard Cloud (ABC) DevOps"
 publishDir = "docs"
-theme = "simpleit"
-themesDir = "themes/"
+theme = "hugo-now"
+#themesDir = "themes/"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+mainSections = ["post", "project"]
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Awesome DevOps"
+  keywords = ["hugo-now", "hugo"]
+  avatar = "/images/AB.jpg"
+  # pygments
+  PygmentsUseClasses = true
+  PygmentsCodeFences = true
+  # pagination
+  paginate = 10
+  paginatePath = "page"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
