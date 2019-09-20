@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>Developer Environment Setup</title>
-      <link>//applyboard.github.io/ab-hugo/post/my-first-post/</link>
-      <pubDate>Thu, 19 Sep 2019 13:13:39 -0400</pubDate>
+      <title></title>
+      <link>//applyboard.github.io/ab-hugo/post/dev-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//applyboard.github.io/ab-hugo/post/my-first-post/</guid>
-      <description>ApplyBoardCloud DevOps☁️ Developer Environment Setup Setup your AWS Account and Web Console access  Request an AWS Developer Account by contacting: jason.deland@applyboard.com Follow the instructions in the Welcome to Amason Web Services email you receive to setup your account  When complete you should be able to login into the AWS Dev Account via this link https://649614366484.signin.aws.amazon.com/console  Enable MFA following the AWS Guide: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html  Note you need an Virtual MFA Device on your phone.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>//applyboard.github.io/ab-hugo/post/developer-environment-setup/</link>
-      <pubDate>Thu, 19 Sep 2019 13:13:39 -0400</pubDate>
-      
-      <guid>//applyboard.github.io/ab-hugo/post/developer-environment-setup/</guid>
+      <guid>//applyboard.github.io/ab-hugo/post/dev-setup/</guid>
       <description>ApplyBoardCloud ☁️ Developer Environment Setup Setup your AWS Account and Web Console access  Request an AWS Developer Account by contacting: jason.deland@applyboard.com Follow the instructions in the Welcome to Amason Web Services email you receive to setup your account  When complete you should be able to login into the AWS Dev Account via this link https://649614366484.signin.aws.amazon.com/console  Enable MFA following the AWS Guide: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html  Note you need an Virtual MFA Device on your phone.</description>
     </item>
     
