@@ -15,7 +15,7 @@ jobs:
           submodules: true
 
       - name: Deploy hugo site
-        uses: jayat-ab/hugo-deploy-gh-pages@master
+        uses: maxheld83/ghpages@master
         env:
           HUGO_VERSION: 0.58.2
           TARGET_REPO: ApplyBoard/ab-hugo
