@@ -14,7 +14,7 @@ jobs:
         with:
           submodules: true
 
-      - name: Deploy hugo site
+      - name: Deploy the hugo site
         uses: maxheld83/ghpages@v0.2.1
         env:
           BUILD_DIR: "public/"
