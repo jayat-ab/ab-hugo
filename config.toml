@@ -1,7 +1,7 @@
 baseURL = "//www.applyboard.com/"
 languageCode = "en-us"
 title = "Welcome to ApplyBoard Cloud (ABC) DevOps"
-publishDir = "docs"
+#publishDir = "public"
 theme = "hugo-now"
 #themesDir = "themes/"
 
