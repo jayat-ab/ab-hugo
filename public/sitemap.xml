@@ -4,7 +4,12 @@
   
   <url>
     <loc>//applyboard.github.io/ab-hugo/post/dev-setup/</loc>
-    <priority>0</priority>
+    <lastmod>2019-09-20T14:12:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/post/</loc>
+    <lastmod>2019-09-20T14:12:54-04:00</lastmod>
   </url>
   
   <url>
@@ -14,10 +19,6 @@
   
   <url>
     <loc>//applyboard.github.io/ab-hugo/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>//applyboard.github.io/ab-hugo/post/</loc>
   </url>
   
   <url>
