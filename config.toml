@@ -18,7 +18,7 @@ mainSections = ["post", "project"]
 
 [params]
   favicon = ""
-  description = "Awesome DevOps"
+  description = "Awesome Jayat"
   keywords = ["hugo-now", "hugo"]
   avatar = "/images/AB.jpg"
   # pygments
