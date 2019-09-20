@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//applyboard.github.io/ab-hugo/post/my-first-post/</loc>
+    <lastmod>2019-09-19T13:13:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/post/</loc>
+    <lastmod>2019-09-19T13:13:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/</loc>
+    <lastmod>2019-09-19T13:13:39-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//applyboard.github.io/ab-hugo/about/</loc>
   </url>
   
@@ -12,10 +27,6 @@
   
   <url>
     <loc>//applyboard.github.io/ab-hugo/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>//applyboard.github.io/ab-hugo/</loc>
   </url>
   
 </urlset>
