@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/post/dev-setup/</loc>
+    <lastmod>2019-09-20T14:22:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/post/</loc>
+    <lastmod>2019-09-20T14:22:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/about/</loc>
+    <lastmod>2019-09-20T11:41:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>//applyboard.github.io/ab-hugo/</loc>
+    <lastmod>2019-09-20T14:05:29-04:00</lastmod>
+  </url>
+  
+</urlset>
